@@ -6,21 +6,24 @@
 main:
   - name: Home
     url: '#about'
+    weight: 5
+  - name: About me
+    url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Awards
+    url: '#awards'
     weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Professional experience
+    url: '#experience'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Posts
+    url: '#posts'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: '#DataArt'
+    url: '#fitzroy'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
